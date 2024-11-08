@@ -87,7 +87,7 @@ const Portfolio = () => {
         <div className="container mx-auto px-4">
           <div className="flex flex-col md:flex-row items-center justify-between">
             <div className="md:w-1/2 text-center md:text-left mb-8 md:mb-0">
-              <h1 className="text-4xl md:text-6xl font-bold mb-4">Muhammad Abdullah</h1>
+              <h1 className="text-4xl md:text-6xl font-bold mb-4">Muhammad Abdullah Shah</h1>
               <h2 className="text-xl md:text-2xl mb-6 opacity-90">SEO Expert & Digital Strategist</h2>
               <div className="flex justify-center md:justify-start space-x-4 mb-6">
                 <a href="#" className="hover:text-blue-200 transition-colors">
@@ -108,7 +108,7 @@ const Portfolio = () => {
               <div className="relative">
                 <div className="w-64 h-64 rounded-full overflow-hidden border-4 border-white shadow-lg mx-auto">
                   <img 
-                    src="src/assets/prof.jpeg" 
+                    src="https://github.com/royalihasan/abdullahs_portfolio_/blob/main/src/assets/prof.jpeg" 
                     alt="John Doe" 
                     className="w-full h-full object-cover"
                   />
